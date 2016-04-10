@@ -7,7 +7,7 @@
  | _____   \  \__/
  |      \__/
  |        |
- |        |
+ |XXXXXXXX|        
  |        |
  /         \
  /   ___    \
@@ -16,4 +16,4 @@
  /  |    |  \
  \__/    \__/
 
-Picture 1: Shortcat(longer).
+Picture 5: belt for master
